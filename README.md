@@ -1,1 +1,0 @@
-# TripleTen-Israel-2024-Data-Analysis-Projectos
