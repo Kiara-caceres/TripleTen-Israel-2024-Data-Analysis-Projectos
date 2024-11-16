@@ -1,3 +1,23 @@
+# Proyecto integrado 2: Prueba A/A/B
+Para este proyecto se toma el dataset general de una empresa de venta de alimentos donde se refleja el comportamiento de cada usuario que entra en una etapa o pagina a otra.
+## objectivo
+Comprobar si habría un impacto en el comportamiento de los usuarios al cambiar toda la fuenta de la aplicación
+## Desarrollo
+En el dataset se muestra 3 grupos para el analisis de un test A/A/B y tomar la mejor decisión:
+* Realicé una comparativa de proporción de usuario en cada evento(embudo de venta) para cada grupo y analizar la retención en cada etapa.
+* Analizé la diferencia estadística de los grupos de control para verificar la exactitud de las muestras tomando en cuenta la conversion a comprador. 
+*  Utilicé la prueba de hipótesis Ttest_ind para analizar la diferencia significativa para las diferentes comparaciones entre el grupo de control y el grupo de prueba.
+
+## SKILLS para este proyecto 
+<div align='center'>
+<img width="68" alt="Procesamiento de datos" src="https://github.com/user-attachments/assets/4b6c58b1-0bc3-434c-9b57-3511dcb04749">
+<img width="68" alt="Analisis exploratorio" src="https://github.com/user-attachments/assets/22486eb0-e5a6-4095-9067-c435ffc839ec">
+<img width="68" alt="Analisis estadistico" src="https://github.com/user-attachments/assets/54044c92-a726-408c-84dc-8b71f25475e5">
+</div>
+
+* Analisis de negocio
+* Explicacion de datos
+
 
 ### Descripción del proyecto
 Trabajas en una empresa emergente que vende productos alimenticios. Debes investigar el comportamiento del usuario para la aplicación de la empresa.
