@@ -1,4 +1,14 @@
-# Proyecto sprint 10: Prueba Test A/B para aumentar los ingresos 
+# Proyecto sprint 10: Decisiones de negocio basadas en datos
+Para una tienda online, se toma 3 dataset: Hipotesis, ordenes y visitas.Basado en eso se elegirá la hipotesis prioritaria para realizar la prueba test A/B y analizar si aumenta nuestros ingresos con este cambio.
+## Objetivo
+* Elegir y poner a prueba la hipotesis correcta.
+* Detectar si estos cambio aumenta nuestros ingresos
+
+## Desarrollo
+* Apliqué el framework Ice, Rice para elegir la prioridad de hipotesis y realizar la prueba test A/B.
+* Compilé y analicé los ingresos y tamaño promedio acumulado de cada grupo.
+* Comparé la tasa de conversion en una graficar y resaltar alguna anomalia.
+* Realicé la prueba no parametrica para comprobar una diferencia significativa entre ambos grupos.
 
 ### Descripción del proyecto
 Contexto
