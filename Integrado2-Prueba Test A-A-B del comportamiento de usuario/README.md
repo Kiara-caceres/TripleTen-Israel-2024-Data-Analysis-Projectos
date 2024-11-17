@@ -1,6 +1,6 @@
 # Proyecto integrado 2: Prueba A/A/B
 Para este proyecto se toma el dataset general de una empresa de venta de alimentos donde se refleja el comportamiento de cada usuario que entra en una etapa o pagina a otra.
-## objectivo
+## Objectivo
 Comprobar si habría un impacto en el comportamiento de los usuarios al cambiar toda la fuenta de la aplicación
 ## Desarrollo
 En el dataset se muestra 3 grupos para el analisis de un test A/A/B y tomar la mejor decisión:
